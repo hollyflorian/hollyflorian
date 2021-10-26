@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hollyflorian
+- 👋 Hi, I’m Holly
 - 👀 I’m interested in Knifes and Coding Stuff
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me holly@florianholly.at
