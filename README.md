@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Holly
-- 👀 I’m interested in Knifes and Coding Stuff
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Knives and Coding Stuff
+- 🌱 I’m currently learning Coding?
 - 📫 How to reach me holly@florianholly.at
 ---
 [Portfolio](https://florianholly.at/)
